@@ -11,7 +11,10 @@ NOTE: I'm using Python3.9 which is installed by conda-forge, and I also installe
 
    NOTE: opencv-contrib is also packed into the opencv-python wheel
    file.
-3. (20210201) decord: [decord-0.4.2-cp39-cp39-macosx_11_0_arm64.whl](./builds/decord-0.4.2-cp39-cp39-macosx_11_0_arm64.whl)
+3. (20211013) decord: 
+
+   [decord-0.4.2-cp39-cp39-macosx_11_0_arm64.whl](./builds/decord-0.4.2-cp39-cp39-macosx_11_0_arm64.whl)
+   [decord-0.6.0-cp39-cp39-macosx_11_0_arm64.whl](./builds/decord-0.6.0-cp39-cp39-macosx_11_0_arm64.whl)
 
 ### 2. VSCODE Extensions
 
